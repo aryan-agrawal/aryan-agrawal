@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello!
+
+I'm a second year Computer Science student at UC Berkeley, always looking to learn new skills and work on exciting projects.
+
+Reach out to me at agrawalaryanm@gmail.com if you want to chat!
 
 <!--
 **aryan-agrawal/aryan-agrawal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
