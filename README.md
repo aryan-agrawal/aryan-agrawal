@@ -1,6 +1,6 @@
 ### Hello!
 
-I'm a third year Computer Science student at UC Berkeley that is always looking to learn new skills and work on exciting projects.
+I'm a fourth year Computer Science student at UC Berkeley that is always looking to learn new skills and work on exciting projects.
 
 Reach out to me at agrawalaryanm@gmail.com if you want to chat!
 
